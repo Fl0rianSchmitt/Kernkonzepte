@@ -13,6 +13,7 @@ public class CalculationEngine {
 				while(k+j < f.length){
 					k = k + j;
 					f[k] = false;
+					
 				}
 			}
 		}
